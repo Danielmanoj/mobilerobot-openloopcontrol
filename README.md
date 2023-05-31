@@ -94,13 +94,15 @@ Insert image here
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
+
+
 (https://youtu.be/jugthxcRP14)
 
-##Robot start point:
+## Robot start point:
 ![image](https://github.com/Danielmanoj/mobilerobot-openloopcontrol/assets/69635071/5ce70347-94c0-43e6-8445-bf883ba537e2)
 
 
-##Robot end point:
+## Robot end point:
 ![image](https://github.com/Danielmanoj/mobilerobot-openloopcontrol/assets/69635071/90a40415-8cc6-4187-bb23-37b2541792a1)
 
 
