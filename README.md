@@ -91,31 +91,21 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
+(https://youtu.be/jugthxcRP14)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+##Robot start point:
+![image](https://github.com/Danielmanoj/mobilerobot-openloopcontrol/assets/69635071/5ce70347-94c0-43e6-8445-bf883ba537e2)
 
-<br/>
-<br/>
-<br/>
-<br/>
+
+##Robot end point:
+![image](https://github.com/Danielmanoj/mobilerobot-openloopcontrol/assets/69635071/90a40415-8cc6-4187-bb23-37b2541792a1)
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
-
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
